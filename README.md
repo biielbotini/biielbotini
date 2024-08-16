@@ -10,4 +10,8 @@ Meu nome é Gabriel Botini
   ### Você pode entrar em contato comigo 📫
 
 - biielbotini@outlook.com
-- @biiebotini 
+- 
+- [@biiebotini](https://www.instagram.com/biielbotini/)
+- 
+  ![](https://media1.tenor.com/m/N0SnL7_zZ-4AAAAd/palmeiras-ruzarugif.gif)
+  
