@@ -2,9 +2,9 @@
 
 Meu nome é Gabriel Botini 
 
-- Estou estudando na alura 
+- Estou estudando Analise e Desenvolvimento de Sistemas
 - Estou estudando no Culto a Ciência 
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem Python, Html, Java e CSS
 - Utilizo esse espaço para minha trabalhos da escola e compartilhamento dos meus projetos
 
   ### Você pode entrar em contato comigo 📫
